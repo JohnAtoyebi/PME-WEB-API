@@ -13,6 +13,7 @@ namespace PME.Services.Interfaces
         Task<PersonalDetails> GetMemberByIdAsync(string MemberId);
         Task<List<PersonalDetails>> GetAllMembersAsync();
         Task<PersonalDetailsDto> CreateMember(PersonalDetailsDto model);
+        Task<string> UpdateMember(string memberId, PersonalDetailsDto model);
         Task<string> DeleteMemberById(string MemberId);
     }
 }

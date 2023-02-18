@@ -47,9 +47,9 @@ C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\bin\Debug\net5.0\runtimes\win\l
 C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\bin\Debug\net5.0\PME.Core.dll
 C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\bin\Debug\net5.0\PME.Data.dll
 C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\bin\Debug\net5.0\PME.Services.dll
-C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\bin\Debug\net5.0\PME.Services.pdb
 C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\bin\Debug\net5.0\PME.Core.pdb
 C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\bin\Debug\net5.0\PME.Data.pdb
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\bin\Debug\net5.0\PME.Services.pdb
 C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\obj\Debug\net5.0\PME.Api.csproj.AssemblyReference.cache
 C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\obj\Debug\net5.0\PME.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\obj\Debug\net5.0\PME.Api.AssemblyInfoInputs.cache

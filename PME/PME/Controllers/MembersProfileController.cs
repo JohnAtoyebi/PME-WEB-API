@@ -15,28 +15,35 @@ namespace PME.Api.Controllers
         {
             _personalDetails = personalDetails;
         }
-        [HttpPost("Create-A-Member")]
+        [HttpPost]
         public async Task<IActionResult> CreateMember(PersonalDetailsDto model)
         {
             var request = await _personalDetails.CreateMember(model);
             if (request == null) return BadRequest(ModelState);
             return Ok(model);
         }
-        [HttpGet("By-Id")]
+        [HttpGet("ById")]
         public async Task<IActionResult> GetMemberById(string memberId)
         {
             var request = await _personalDetails.GetMemberByIdAsync(memberId);
             if (request == null) return BadRequest(ModelState);
             return Ok(request);
         }
-        [HttpGet("All-Members")]
+        [HttpGet("AllMembers")]
         public async Task<IActionResult> GetAllMembers()
         {
             var request = await _personalDetails.GetAllMembersAsync();
             if(request == null) return BadRequest(ModelState);
             return Ok(request);
         }
-        [HttpDelete("Delete-Member")]
+        [HttpPut]
+        public async Task<IActionResult> UpdateMember(string memberId, PersonalDetailsDto model)
+        {
+            var request = await _personalDetails.UpdateMember(memberId, model);
+            if(request == null) return BadRequest(ModelState);
+            return Ok(request);
+        }
+        [HttpDelete]
         public async Task<IActionResult> DeleteMember(string memberId)
         {
             var request = await _personalDetails.DeleteMemberById(memberId);

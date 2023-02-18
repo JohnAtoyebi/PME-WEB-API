@@ -52,11 +52,27 @@ namespace PME.Services.Implementations
             return "SUCCESSFULLY DELETED!";
         }
 
+        public async Task<string> UpdateMember(string memberId, PersonalDetailsDto model)
+        {
+            var request = _context.PersonalDetails.FirstOrDefault(x => x.Id == memberId);
+            if (request == null) return null;
+
+            request.FirstName = model.FirstName;
+            request.LastName = model.LastName;
+            request.DOB = model.DOB;
+            request.ProgrammingLanguage = model.ProgrammingLanguage;
+            request.PhoneNumber = model.PhoneNumber;
+            request.Address = model.Address;
+            
+            _context.PersonalDetails.Update(request);
+            await _context.SaveChangesAsync();
+            return "Updated!";
+        }
+
         public async Task<List<PersonalDetails>> GetAllMembersAsync()
         {
             var requests = await _context.PersonalDetails.ToListAsync();
-            var request = _mapper.Map<List<PersonalDetails>>(requests);
-            return request;
+            return requests;
         }
 
         public async Task<PersonalDetails> GetMemberByIdAsync(string MemberId)
@@ -66,8 +82,7 @@ namespace PME.Services.Implementations
             {
                 return null;
             }
-            var request = _mapper.Map<PersonalDetails>(check);
-            return request;
+            return check;
         }
     }
 }
