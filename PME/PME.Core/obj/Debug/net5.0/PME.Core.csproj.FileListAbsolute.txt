@@ -1,0 +1,15 @@
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME.Core\bin\Debug\net5.0\PME.Core.deps.json
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME.Core\bin\Debug\net5.0\PME.Core.runtimeconfig.json
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME.Core\bin\Debug\net5.0\PME.Core.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME.Core\bin\Debug\net5.0\PME.Core.dll
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME.Core\bin\Debug\net5.0\PME.Core.pdb
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME.Core\obj\Debug\net5.0\PME.Core.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME.Core\obj\Debug\net5.0\PME.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME.Core\obj\Debug\net5.0\PME.Core.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME.Core\obj\Debug\net5.0\PME.Core.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME.Core\obj\Debug\net5.0\PME.Core.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME.Core\obj\Debug\net5.0\PME.Core.dll
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME.Core\obj\Debug\net5.0\refint\PME.Core.dll
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME.Core\obj\Debug\net5.0\PME.Core.pdb
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME.Core\obj\Debug\net5.0\PME.Core.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME.Core\obj\Debug\net5.0\ref\PME.Core.dll
