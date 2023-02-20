@@ -55,8 +55,8 @@ namespace ConsoleApp1
         }
         static void Main(string[] args)
         {
-            SendQuickEmail("atoyebijohn1@gmail.com", "atoyebijohn1@gmail.com", "Test email", "Hello, world!", "smtp.gmail.com", 587, "atoyebijohn1@gmail.com", "");
-            //SendQuickMail("atoyebijohn1@gmail.com", "");
+            SendQuickEmail("atoyebijohn1@gmail.com", "atoyebijohn1@gmail.com", "Test email", "Hello John, world!", "smtp.gmail.com", 587, "atoyebijohn1@gmail.com", "pkxurquqxchqipvv");
+            //SendQuickMail("atoyebijohn1@gmail.com", "pkxurquqxchqipvv");
         }
     }
 }
