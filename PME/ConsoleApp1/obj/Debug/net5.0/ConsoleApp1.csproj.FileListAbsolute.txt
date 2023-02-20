@@ -1,0 +1,16 @@
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
