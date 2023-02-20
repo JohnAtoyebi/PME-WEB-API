@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PME.Data", "PME.Data\PME.Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PME.Services", "PME.Services\PME.Services.csproj", "{8BDDD9FA-96C6-4EC4-A890-178CDB3D3872}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{769469AB-2AA3-4F7D-9577-E028F9A6A22A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SmtpService", "ConsoleApp1\SmtpService.csproj", "{769469AB-2AA3-4F7D-9577-E028F9A6A22A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

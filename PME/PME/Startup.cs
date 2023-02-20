@@ -37,7 +37,9 @@ namespace PME
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "PME", Version = "v1" });
             });
-            services.AddTransient<IPersonalDetailsRepository,PersonalDetailsServices>();
+            services.AddScoped<IPersonalDetailsRepository,PersonalDetailsServices>();
+            services.AddScoped<IAuthRepository, AuthServices>();
+            //services.AddScoped<IConfiguration>();
             services.AddAutoMapper();
             services.AddDbContext<PMEDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")

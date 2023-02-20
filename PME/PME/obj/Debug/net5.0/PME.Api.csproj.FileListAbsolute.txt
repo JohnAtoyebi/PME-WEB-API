@@ -66,3 +66,5 @@ C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\obj\Debug\net5.0\refint\PME.Api
 C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\obj\Debug\net5.0\PME.Api.pdb
 C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\obj\Debug\net5.0\PME.Api.genruntimeconfig.cache
 C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\obj\Debug\net5.0\ref\PME.Api.dll
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Decagon\Desktop\PME-API-PROJECT\PME\PME\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll

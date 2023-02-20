@@ -4,7 +4,7 @@ using System.Net;
 
 namespace ConsoleApp1
 {
-    public class Program
+    public class Smtp
     {
         public static void SendQuickEmail(string fromAddress, string toAddress, string subject,
                 string body, string smtpServer, int smtpPort, string smtpUsername, string smtpPassword)
