@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Net.Mail;
 using System.Net;
 
@@ -25,7 +25,7 @@ namespace ConsoleApp1
                 Console.WriteLine("Error sending email: {0}", ex.ToString());
             }
         }
-        /*public static void SendQuickMail(string fromAddress, string password)
+        *//*public static void SendQuickMail(string fromAddress, string password)
         {
             using SmtpClient email = new SmtpClient
             {
@@ -48,7 +48,7 @@ namespace ConsoleApp1
             {
 
             }
-        }*/
+        }*//*
         public static string ToAddress()
         {
             return "atoyebijohn1@gmail.com";
@@ -60,3 +60,4 @@ namespace ConsoleApp1
         }
     }
 }
+*/
